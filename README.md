@@ -59,9 +59,7 @@ The system detects fraudulent financial transactions in real time and explains p
 ---
 
 ## Live Streamlit App
-
-PASTE_YOUR_STREAMLIT_LINK_HERE
-
+https://fraud-detection-shifa.streamlit.app/
 
 ## Author
 
